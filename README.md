@@ -15,11 +15,11 @@ This project is built as a learning exercise to understand how to:
 
 🚀 Objective
     Learn how to fetch data from an external API and render it dynamically in a styled HTML/CSS interface.
-
-    This project uses the Dog CEO API to fetch random dog images and display them in a responsive gallery.
+ This project uses the Dog CEO API to fetch random dog images and display them in a responsive gallery.
 
 
 🖼️ Features
+
     🔁 Dynamic API Fetching of images
 
     ⏳ Spinner Loader while images are loading
