@@ -13,12 +13,13 @@ This project is built as a learning exercise to understand how to:
 
     ✅ Implement a fullscreen image viewer
 
-🚀 Objective
+**🚀 Objective**
+
     Learn how to fetch data from an external API and render it dynamically in a styled HTML/CSS interface.
  This project uses the Dog CEO API to fetch random dog images and display them in a responsive gallery.
 
 
-🖼️ Features
+**🖼️ Features**
 
     🔁 Dynamic API Fetching of images
 
